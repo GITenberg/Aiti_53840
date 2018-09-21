@@ -1,0 +1,37 @@
+_repo: Aiti_53840
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kunnas, Hanna
+    gutenberg_agent_id: '47567'
+    url: http://www.gutenberg.org/2009/agents/47567
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Gorky, Maxime
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: 'Translation of: Мать.'
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53840'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcsh 'Revolutionaries -- Russia -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- GITenberg
+title: Äiti
+url: http://www.gutenberg.org/ebooks/53840
