@@ -1,10 +1,13 @@
 _repo: Aiti_53840
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kunnas, Hanna
     gutenberg_agent_id: '47567'
     url: http://www.gutenberg.org/2009/agents/47567
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: 'Translation of: Мать.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53840#Aiti
 gutenberg_issued: '2016-12-30'
 gutenberg_type: Text
 identifiers:
